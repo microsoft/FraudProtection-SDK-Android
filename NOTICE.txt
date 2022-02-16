@@ -245,7 +245,7 @@ limitations under the License.
 
 ---------------------------------------------------------
 
-com.google.code.gson/gson 2.8.6 - Apache-2.0
+com.google.code.gson/gson 2.8.9 - Apache-2.0
 
 
 
@@ -351,7 +351,7 @@ limitations under the License.
 
 ---------------------------------------------------------
 
-com.google.android.gms/play-services-ads-identifier 17.0.0
+com.google.android.gms/play-services-ads-identifier 18.0.1
 
 
 Copyright 2014 Google Inc.
